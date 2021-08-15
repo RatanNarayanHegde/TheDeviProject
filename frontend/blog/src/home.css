@@ -1,0 +1,27 @@
+.facilitator-login {
+  display: block;
+  margin-left: 100px;
+  padding: 1rem;
+  border: 1px solid gray;
+  border-radius: 1rem;
+  background-color: #f3f4f6;
+}
+
+.student-login {
+  display: block;
+  padding: 1rem;
+  border: 1px solid gray;
+  border-radius: 1rem;
+  background-color: #f3f4f6;
+}
+
+.login {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.home-container {
+  margin-top: 50px;
+}

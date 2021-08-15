@@ -1,0 +1,18 @@
+.AGheading{
+  font-weight: bolder;
+  padding-top:1cm;
+  padding-bottom:1cm;
+  padding-left: .5cm;
+}
+.AGrow{
+  padding-left: 1cm;
+}
+.AGinfo{
+  font-size: .7 cm;
+  font-weight:600;
+}
+.AGcol{
+  background-color: aliceblue;
+  margin-bottom: .3cm;
+  padding-top: .3cm;
+}
